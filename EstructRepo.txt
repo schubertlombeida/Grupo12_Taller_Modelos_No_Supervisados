@@ -1,0 +1,25 @@
+Grupo12_Taller_Modelos_No_Supervisados/
+│
+├── README.md
+├── requirements.txt
+├── data/
+│   ├── raw/
+│   │   └── Salarios_Cerveceria.csv
+│   │
+│   └── processed/
+│       └── Salarios_Cerveceria_Limpio.csv
+│
+├── notebooks/
+│   └── 01_modelos_no_supervisados_cerveceria.ipynb
+│
+├── reports/
+│   └── informe_modelos_no_supervisados.pdf
+│
+├── images/
+│   ├── grafico_anomalias_lof.png
+│   ├── grafico_anomalias_isolation_forest.png
+│   └── visualizacion_pca.png
+│
+└── docs/
+    ├── instrucciones.docx
+    └── rubrica.pdf
