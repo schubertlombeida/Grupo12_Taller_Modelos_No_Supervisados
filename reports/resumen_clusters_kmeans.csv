@@ -1,0 +1,5 @@
+﻿KMeans_Cluster,LogSalarioTotal,OvertimeRatio,BeneficiosRatio,ExtraVsBase,BeneficiosVsSalario,Cantidad_Registros
+0,8.5233,0.2143,0.152,0.2143,0.2041,4095
+1,7.6656,0.4057,0.544,0.4057,0.9452,812
+2,7.9395,1.0446,0.3124,1.0446,0.7765,989
+3,8.0717,0.3816,0.2594,0.3816,0.4129,2486

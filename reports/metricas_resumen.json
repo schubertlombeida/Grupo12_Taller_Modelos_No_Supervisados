@@ -1,0 +1,25 @@
+{
+  "raw_shape": [
+    8382,
+    14
+  ],
+  "clean_shape": [
+    8382,
+    22
+  ],
+  "miss_horas": 150,
+  "miss_benef": 377,
+  "miss_tipo": 1200,
+  "if_anom": 420,
+  "if_norm": 7962,
+  "lof_anom": 168,
+  "lof_norm": 8214,
+  "both_anom": 51,
+  "db_noise": 41,
+  "db_clusters_no_noise": 4,
+  "pca_var": [
+    64.67,
+    26.0,
+    90.67
+  ]
+}

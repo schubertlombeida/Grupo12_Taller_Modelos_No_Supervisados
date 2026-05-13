@@ -1,0 +1,4 @@
+﻿Modelo,Registros normales,Anomalías detectadas,Porcentaje sobre total
+Isolation Forest,7962,420,5.0%
+Local Outlier Factor,8214,168,2.0%
+Coincidencia ambos modelos,No aplica,51,0.6%
