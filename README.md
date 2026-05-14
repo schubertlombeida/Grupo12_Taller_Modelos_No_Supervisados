@@ -5,9 +5,9 @@
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Modelos%20no%20supervisados-green)
 ![Estado](https://img.shields.io/badge/Estado-Entregable%20acad%C3%A9mico-success)
 
-## Análisis de modelos no supervisados aplicado al dataset salarial de Cervecería 2025
+## Análisis de modelos no supervisados aplicado al dataset salarial de Cervecería Nacional, Data 2025
 
-Repositorio académico desarrollado para la asignatura **Aprendizaje Automático**, orientado a la aplicación de técnicas de **aprendizaje no supervisado** sobre un dataset salarial de Cervecería 2025.
+Repositorio académico desarrollado para la asignatura **Aprendizaje Automático**, orientado a la aplicación de técnicas de **aprendizaje no supervisado** sobre un dataset salarial de Cervecería Nacional, dataset 2025.
 
 El proyecto utiliza modelos de segmentación, reducción de dimensionalidad y detección de anomalías para identificar **perfiles salariales diferenciados**, **patrones internos de compensación** y **registros estadísticamente atípicos** que podrían requerir revisión técnica o administrativa.
 
@@ -399,8 +399,6 @@ Las principales librerías utilizadas en el notebook son:
 ## Licencia y uso académico
 
 Este repositorio fue elaborado con fines académicos para la asignatura **Aprendizaje Automático**.
-
-Si el dataset contiene información identificable, se recomienda publicar únicamente una versión anonimizada o sintética, preservando la confidencialidad de personas y datos sensibles.
 
 ---
 
